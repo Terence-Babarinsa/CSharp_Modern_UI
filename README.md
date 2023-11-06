@@ -1,5 +1,4 @@
-# Javascript_training
+#C# Modern UI
 
 ## Project aim
-This projct has been carried to better familiarise myself with JavaScript. A number of mini projects have been created in order to apply skills learned from youtube videos. 
-There is also a degree of HTML and CSS coding in order to create the webpages and bring the javascript to life
+This project is an opportuniity to create a piece of work that will act as a stepping sotner to more complex projects that will challenge me and advance my developer abilities 
